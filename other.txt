@@ -1,0 +1,2 @@
+catppuccin mocha colors (gtk theme, cursor, etc)
+papirus icon pack (catppuccin mocha pink folders)
